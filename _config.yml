@@ -1,0 +1,17 @@
+timezone: "Asia/Tokyo"
+url: "https://p2pjapanese.github.io"
+baseurl: ""
+
+# --- Theme settings --- #
+
+theme: jekyll-theme-tactile
+title: "P2P Electronic Japanese"
+description: "Learn Japanese with Bitcoin"
+
+# --- Other settings --- #
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
