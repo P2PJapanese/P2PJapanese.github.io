@@ -12,7 +12,33 @@ Price
 1h 2500yen
 1.5h 3500yen
 2h 4500yen
-Terms and Conditions of use
+...
+# Header 1
+
+Text
+
+## header 2
+
+Text with a [link](https://jisho.org/).
+
+Great [kanji writing practice app](https://www.teachmekanji.com/) (made for mobile with touch screens).
+
+> Quote
+
+### Header 3
+
+* List item 1
+* List item 2
+  * Sub-list item 2.1
+  * Sub-list item 2.2
+* List item 3
+
+1. List item 1
+2. List item 2
+3. List item 3
+
+### Terms and Conditions of use
+
 By taking P2P Japanese lessons, you agree to these terms and conditions.
 
 1. Application of the Terms
@@ -54,33 +80,6 @@ In case of any suits or legal actions brought against P2P Japanese, the Osaka Re
 
 12. The Governing Law
 These Terms shall be governed by and interpreted in accordance with the laws of Japan.
-...
-
-# Header 1
-
-Text
-
-## header 2
-
-Text with a [link](https://jisho.org/).
-
-Great [kanji writing practice app](https://www.teachmekanji.com/) (made for mobile with touch screens).
-
-> Quote
-
-### Header 3
-
-* List item 1
-* List item 2
-  * Sub-list item 2.1
-  * Sub-list item 2.2
-* List item 3
-
-1. List item 1
-2. List item 2
-3. List item 3
-
-### Header 4
 
 Horizontal rule:
 
