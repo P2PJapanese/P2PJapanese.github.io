@@ -3,8 +3,10 @@ layout: default
 ---
 ...
 # Let's Learn Japanese with P2P Lesson
-You can take lessons in your home with Skype or if you live in around Osaka or Kyoto, I can go to your place!
-Text
+You can take lessons in your home with Skype and also I can go to your place in Osaka and Kyoto!
+
+## News!
+I started accepting BTC!!
 
 ## Couses
 *  Beginner
