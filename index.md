@@ -13,11 +13,17 @@ Price
 1.5h 3500yen
 2h 4500yen
 ...
-# Header 1
-
+# Let's Learn Japanese with P2P Lesson
+You can take lessons in your home with Skype or if you live in around Osaka or Kyoto, I can go to your place!
 Text
 
-## header 2
+## Couses
+1.Beginner
+2.Intermediate
+3.Advanced
+4.Study for JLPT
+5.Besiness
+6.Others
 
 Text with a [link](https://jisho.org/).
 
@@ -25,18 +31,25 @@ Great [kanji writing practice app](https://www.teachmekanji.com/) (made for mobi
 
 > Quote
 
-### Header 3
+### Price
 
-* List item 1
-* List item 2
-  * Sub-list item 2.1
-  * Sub-list item 2.2
+* 1 hour:2500yen
+* 1.5 hour:3500yen
+* 2 hour:4500yen
+  * ※Skype lesson and face to face lesson are the same price.
 * List item 3
 
 1. List item 1
 2. List item 2
 3. List item 3
 
+### About me
+My name is Kaori Ishibashi. I live in Ibaraki city in Osaka. My place is in between Osaka and Kyoto.
+I am married and have 3 children. I have studied English in Canada and studied Spanish in Spain. So I like studying languages very much.
+I graduated from Meikai University foreign language department, Japanese language course, and also completed the 420-hour course for Teaching Japanese as a Foreign Language at Tokyo Central Japanese Language School.
+I Passed the Japanese Language Teacher Proficiency Test in 2005.
+I have Worked for a Japanese language academy in Chiba, Kyoto and Osaka and I have teached Japanese for 12 years.
+ 
 ### Terms and Conditions of use
 
 By taking P2P Japanese lessons, you agree to these terms and conditions.
