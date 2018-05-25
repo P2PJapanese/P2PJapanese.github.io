@@ -1,29 +1,18 @@
 ---
 layout: default
 ---
-Lesson
-Beginner
-Intermediate
-Advanced
-JLPT 
-Business
-Others
-Price
-1h 2500yen
-1.5h 3500yen
-2h 4500yen
 ...
 # Let's Learn Japanese with P2P Lesson
 You can take lessons in your home with Skype or if you live in around Osaka or Kyoto, I can go to your place!
 Text
 
 ## Couses
-1.Beginner
-2.Intermediate
-3.Advanced
-4.Study for JLPT
-5.Besiness
-6.Others
+* 1. Beginner
+* 2. Intermediate
+* 3. Advanced
+* 4. Study for JLPT
+* 5. Besiness
+* 6. Others
 
 Text with a [link](https://jisho.org/).
 
