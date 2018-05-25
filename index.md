@@ -28,11 +28,17 @@ Great [kanji writing practice app](https://www.teachmekanji.com/) (made for mobi
 * 1.5 hour:3500yen
 * 2 hour:4500yen
   * Skype lesson and face to face lesson are the same price.
-* List item 3
+ 
+### Contact
+Kaori Ishibashi in Osaka, Japan
 
-1. List item 1
-2. List item 2
-3. List item 3
+072-647-3095
+
+050-5308-4811
+
+kaosmile1022@yahoo.co.jp
+
+Skype:kaosmile1022
 
 ### About me
 My name is Kaori Ishibashi. I live in Ibaraki city in Osaka. My place is in between Osaka and Kyoto.
@@ -43,7 +49,7 @@ I graduated from Meikai University foreign language department, Japanese languag
 
 I Passed the Japanese Language Teacher Proficiency Test in 2005.
 
-I have Worked for a Japanese language academy in Chiba, Kyoto and Osaka and I have teached Japanese for 12 years.
+I have Worked for Japanese language academies in Chiba, Kyoto and Osaka and I have teached Japanese for 12 years.
  
 ### Terms and Conditions of use
 
