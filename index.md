@@ -69,49 +69,26 @@ I have Worked for Japanese language academies in Chiba, Kyoto and Osaka and I ha
 By taking P2P Japanese lessons, you agree to these terms and conditions.
 
 1. Application of the Terms
-
-These Terms apply to all applications made for P2P Japanese services and for the use of them.
-
-Applications of students under 18 years old must be made by their parents, guardians or an appropriate adult acceptable to P2P Japanese.
-
+    - These Terms apply to all applications made for P2P Japanese services and for the use of them. Applications of students under 18 years old must be made by their parents, guardians or an appropriate adult acceptable to P2P Japanese.
 2. Billing Policy
-
-Under the Terms, User agrees to pay via Bitcoin Cash (BCH), PayPal, or direct bank transfer the charges as set forth on the Site.
-
+    - Under the Terms, User agrees to pay via Bitcoin Cash (BCH), PayPal, or direct bank transfer the charges as set forth on the Site.
 3. User Responsibility
-
-User may not use the Site or the Service for any inappropriate use.
-
+    - User may not use the Site or the Service for any inappropriate use.
 4. Cancellation of a Reserved Lesson by User
-
-All cancellations require at least 24 hours notice. If User cancels with less than 24 hours notice, User is responsible for the lesson fee.
-
+    - All cancellations require at least 24 hours notice. If User cancels with less than 24 hours notice, User is responsible for the lesson fee.
 5. Cancellation of Reserved Lessons by Teacher
-
-If Teacher cancels a reserved lesson, the lesson fee will be returned to User.
-
+    - If Teacher cancels a reserved lesson, the lesson fee will be returned to User.
 6. Copyright and Intellectual Property Rights
-
-User must not violate copyrights (Japan Copyright Act) or any intellectual property rights which belong to P2P Japanese or Teacher.
-
+    - User must not violate copyrights (Japan Copyright Act) or any intellectual property rights which belong to P2P Japanese or Teacher.
 7. Prohibited Activities
-
     1. Harassment is not allowed by any party.
     2. Personal information will not be demanded by any party.
     3. Audio, video or images from the lesson will not be posted by any party on the Internet.
-
 8. Privacy Policy
-
-P2P Japanese collects User contact information to discuss lesson content and scheduling. P2P Japanese does not use User information for any other purpose.
-
+    - P2P Japanese collects User contact information to discuss lesson content and scheduling. P2P Japanese does not use User information for any other purpose.
 9. Compensation for Damages
-
-P2P Japanese disclaims any liability for any losses or damages including loss of profits, indirect, consequential, special or exemplary damages or losses caused by any compensation claim by third parties.
-
+    - P2P Japanese disclaims any liability for any losses or damages including loss of profits, indirect, consequential, special or exemplary damages or losses caused by any compensation claim by third parties.
 10. Jurisdiction
-
-In case of any suits or legal actions brought against P2P Japanese, the Osaka Regional Court will govern them as an agreed exclusive competent court in the first instance.
-
+    - In case of any suits or legal actions brought against P2P Japanese, the Osaka Regional Court will govern them as an agreed exclusive competent court in the first instance.
 11. The Governing Law
-
-These Terms shall be governed by and interpreted in accordance with the laws of Japan.
+    - These Terms shall be governed by and interpreted in accordance with the laws of Japan.
