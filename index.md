@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Let's Learn Japanese with P2P Lessons
 
 You can take lessons at home with Skype or I can meet with you in Osaka and Kyoto!
@@ -8,6 +9,8 @@ You can take lessons at home with Skype or I can meet with you in Osaka and Kyot
 ## News!
 
 I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency that I accept.
+
+![BCH Accepted](assets/bch-accepted-jp.png)
 
 ## Courses
 
@@ -31,9 +34,9 @@ I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency
 4. You can pay any time before the lesson.
 5. We do a 1 hour Japanese lesson at the agreed time/place.
 
-### Prices
+## Prices
 
-* 1 hour trial lesson: 100 yen
+* 1 hour trial lesson: 1000 yen
 * 1 hour: 2500 yen
 * 1.5 hour:3500 yen
 * 2 hour:4500 yen
@@ -41,15 +44,15 @@ I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency
 Prices are in JPY or Bitcoin Cash equivalent in bitcoin.com wallet when the invoice is created.
 
 Skype lessons and face to face lessons are the same price.
- 
- ### Contact
 
-Kaori Ishibashi
-Osaka, Japan
-Email: kaosmile1022@yahoo.co.jp
-Skype: kaosmile1022
+## Contact
 
-### About me
+* Kaori Ishibashi
+* Osaka, Japan
+* Email: kaosmile1022@yahoo.co.jp
+* Skype: kaosmile1022
+
+## About me
 
 My name is Kaori Ishibashi. I live in Ibaraki city in Osaka. It is between Osaka and Kyoto.
 
@@ -61,12 +64,9 @@ I Passed the Japanese Language Teacher Proficiency Test in 2005.
 
 I have Worked for Japanese language academies in Chiba, Kyoto and Osaka and I have taught Japanese for 12 years.
 
+## Terms and Conditions of use
 
-![BCH Accepted](assets/bch-accepted-jp.png)
- 
-### Terms and Conditions of use
-
-By taking P2P Japanese lessons, user agree to these terms and conditions.
+By taking P2P Japanese lessons, you agree to these terms and conditions.
 
 1. Application of the Terms
 
@@ -78,17 +78,17 @@ Applications of students under 18 years old must be made by their parents, guard
 
 Under the Terms, User agrees to pay via Bitcoin Cash (BCH), PayPal, or direct bank transfer the charges as set forth on the Site.
 
-
 3. User Responsibility
 
 User may not use the Site or the Service for any inappropriate use.
 
-4. Cancellation of a Lesson by the Member
+4. Cancellation of a Reserved Lesson by User
 
-All cancellations require at least 24 hours notice. If User cancels with less than 24 hours notice, User is responsible for the lesson 
-fee.
+All cancellations require at least 24 hours notice. If User cancels with less than 24 hours notice, User is responsible for the lesson fee.
 
-5. If Teacher cancels a reserved lesson, the lesson fee will be returned to User.
+5. Cancellation of Reserved Lessons by Teacher
+
+If Teacher cancels a reserved lesson, the lesson fee will be returned to User.
 
 6. Copyright and Intellectual Property Rights
 
@@ -97,9 +97,7 @@ User must not violate copyrights (Japan Copyright Act) or any intellectual prope
 7. Prohibited Activities
 
     1. Harassment is not allowed by any party.
-    
     2. Personal information will not be demanded by any party.
-    
     3. Audio, video or images from the lesson will not be posted by any party on the Internet.
 
 8. Privacy Policy
@@ -114,8 +112,6 @@ P2P Japanese disclaims any liability for any losses or damages including loss of
 
 In case of any suits or legal actions brought against P2P Japanese, the Osaka Regional Court will govern them as an agreed exclusive competent court in the first instance.
 
-12. The Governing Law
+11. The Governing Law
 
 These Terms shall be governed by and interpreted in accordance with the laws of Japan.
-
-* * *
