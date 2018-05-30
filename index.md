@@ -60,7 +60,7 @@ I am married and have 3 children. I have studied English in Canada and studied S
 
 I graduated from Meikai University foreign language department, Japanese language course, and also completed the 420-hour course for Teaching Japanese as a Foreign Language at Tokyo Central Japanese Language School.
 
-I Passed the Japanese Language Teacher Proficiency Test in 2005.
+I Passed the Japanese Language Teacher Proficiency Test in 2003.
 
 I have Worked for Japanese language academies in Chiba, Kyoto and Osaka and I have taught Japanese for 12 years.
 
