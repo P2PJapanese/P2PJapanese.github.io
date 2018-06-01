@@ -1,10 +1,11 @@
+markdown: kramdown
 timezone: "Asia/Tokyo"
 url: "https://p2pjapanese.github.io"
 baseurl: ""
 
 # --- Theme settings --- #
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 title: "P2P Electronic Japanese"
 description: "Learn Japanese with Bitcoin"
 
