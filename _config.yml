@@ -8,6 +8,7 @@ baseurl: ""
 theme: jekyll-theme-slate
 title: "P2P Electronic Japanese"
 description: "Learn Japanese with Bitcoin"
+show_downloads: false
 
 # --- Other settings --- #
 
