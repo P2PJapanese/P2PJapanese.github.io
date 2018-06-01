@@ -23,13 +23,18 @@ I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency
 
 ## Process
 
-1. Contact me by email to arrange a lesson. Please provide:
+1. Contact me by email to arrange a lesson.
 
-    * (for trial lesson) Current Japanese study/ability: 
+    Please provide:
+
+    * Preferred days/times ***in your time zone***: 
+    * Preferred location (skype or place in Kyoto/Osaka): 
+
+    For a trial lesson, also please provide:
+
+    * Current Japanese ability: 
     * Objective (if any): 
     * Time zone: 
-    * Preferred days/times ***in your time zone***:
-    * Preferred location (skype or place in Kyoto/Osaka):
 2. We agree on a meeting time and place by email.
 3. I send a QR-code invoice for payment.
 4. You can pay any time before the lesson.
@@ -42,7 +47,7 @@ I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency
 * 1.5 hour: 3500 yen
 * 2 hour: 4500 yen
 
-Prices are in JPY or Bitcoin Cash equivalent in bitcoin.com wallet when the invoice is created.
+Prices are in JPY or Bitcoin Cash equivalent when the invoice is created.
 
 Skype lessons and face to face lessons are the same price.
 
