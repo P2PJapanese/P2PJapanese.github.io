@@ -49,6 +49,8 @@ I started accepting Bitcoin Cash (BCH)!! For now, it is the only crypto-currency
 
 Prices are in JPY or Bitcoin Cash equivalent when the invoice is created.
 
+I accept Bitcoin Cash (BCH), Paypal and direct domestic bank transfer.
+
 Skype lessons and face to face lessons are the same price.
 
 ## Contact
